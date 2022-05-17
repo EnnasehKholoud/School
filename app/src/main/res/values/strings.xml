@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">School</string>
+    <string name="already_registered_login_here">Already registered? Login here</string>
+</resources>
